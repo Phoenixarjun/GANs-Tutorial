@@ -1,1 +1,1 @@
-# GANs-Tutorial-
+# GANs-Tutorial
